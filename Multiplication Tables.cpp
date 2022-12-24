@@ -1,4 +1,4 @@
-# Tables
+# Multiplication Tables
 #include <iostream>
 
 using namespace std;
